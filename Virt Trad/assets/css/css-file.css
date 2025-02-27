@@ -1,0 +1,74 @@
+/* Styles généraux */
+body {
+    background-color: #f8f9fc;
+}
+
+.navbar {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
+    margin-bottom: 1.5rem;
+}
+
+.card-header {
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+    padding: 0.75rem 1.25rem;
+}
+
+/* Styles pour le tableau de bord */
+.stock-up {
+    color: #1cc88a;
+}
+
+.stock-down {
+    color: #e74a3b;
+}
+
+/* Styles pour les tableaux */
+.table thead th {
+    background-color: #f8f9fc;
+    border-bottom: 2px solid #e3e6f0;
+    color: #6e707e;
+    font-weight: 600;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(78, 115, 223, 0.05);
+}
+
+/* Styles pour les formulaires */
+.form-control:focus {
+    border-color: #4e73df;
+    box-shadow: 0 0 0 0.25rem rgba(78, 115, 223, 0.25);
+}
+
+.btn-primary {
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+.btn-primary:hover {
+    background-color: #2e59d9;
+    border-color: #2653d4;
+}
+
+.btn-primary:focus {
+    background-color: #2e59d9;
+    border-color: #2653d4;
+    box-shadow: 0 0 0 0.25rem rgba(105, 136, 228, 0.5);
+}
+
+/* Styles pour les graphiques */
+canvas {
+    max-width: 100%;
+}
+
+/* Styles pour le footer */
+footer {
+    margin-top: 2rem;
+    border-top: 1px solid #e3e6f0;
+}
