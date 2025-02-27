@@ -1,0 +1,36 @@
+virtual-trader/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+├── config/
+│   └── database.php
+├── controllers/
+│   ├── AuthController.php
+│   ├── GameController.php
+│   ├── PlayerController.php
+│   └── StockController.php
+├── models/
+│   ├── Game.php
+│   ├── Player.php
+│   └── Stock.php
+├── includes/
+│   ├── footer.php
+│   └── header.php
+├── views/
+│   ├── auth/
+│   │   ├── login.php
+│   │   └── register.php
+│   ├── game/
+│   │   ├── dashboard.php
+│   │   └── history.php
+│   ├── stocks/
+│   │   ├── details.php
+│   │   └── list.php
+│   └── players/
+│       ├── profile.php
+│       └── ranking.php
+├── index.php
+├── .htaccess
+└── README.md
