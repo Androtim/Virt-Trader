@@ -25,7 +25,7 @@ L'application permet aux utilisateurs de:
 
 1. Cloner ce dépôt dans votre serveur web:
    ```
-   git clone https://github.com/votre-username/virtual-trader.git
+   git clone https://github.com/Androtim/Virt-Trader.git
    ```
 
 2. Créer une base de données MySQL et importer le fichier `database.sql`
