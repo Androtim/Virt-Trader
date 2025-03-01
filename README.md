@@ -52,7 +52,7 @@ L'application permet aux utilisateurs de :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/virtual-trader.git
+git clone https://github.com/Androtim/Virt-Trader.git
 cd virtual-trader
 ```
 
