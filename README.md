@@ -53,7 +53,7 @@ L'application permet aux utilisateurs de :
 
 ```bash
 git clone https://github.com/Androtim/Virt-Trader.git
-cd virtual-trader
+cd Virt-Trader
 ```
 
 ### 2. Créer la base de données
